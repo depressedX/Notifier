@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">草东没有派对巡演通知</string>
+    <string name="background_running_description">自动后台运行</string>
+    <string name="no_party_for_cao_dong">草东没有派对</string>
+</resources>
